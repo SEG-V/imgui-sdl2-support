@@ -1,0 +1,1 @@
+Slightly modified version of [imgui-rs/imgui-sdl2-support](https://github.com/imgui-rs/imgui-rs/tree/main/imgui-sdl2-support) to support sdl2 version 0.35.2
