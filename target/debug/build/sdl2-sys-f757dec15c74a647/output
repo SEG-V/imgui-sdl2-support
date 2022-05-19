@@ -1,2 +1,0 @@
-cargo:include=/home/segv/.cargo/git/checkouts/rust-sdl2-f20db51beeece243/541f49a/sdl2-sys/SDL/include
-cargo:rustc-flags=-l SDL2
